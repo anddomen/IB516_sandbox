@@ -28,3 +28,4 @@ R is a collaborative project with many contributors.
 Type 'contributors()' for more information and
 'citation()' on how to cite R o
 
+just checking to see if I updated the conflicts right
