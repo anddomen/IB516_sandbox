@@ -5,12 +5,11 @@ I'm making a change here
 
 I'm learning how to branch
 
-lets make a conflict!!! 
+conflict line?
 
 Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
-
  or 'licence()' for distribution details.
 
   Natural language support but running in an English locale
